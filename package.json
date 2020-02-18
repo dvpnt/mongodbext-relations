@@ -1,5 +1,5 @@
 {
-  "name": "mongodbext-relations",
+  "name": "@dvpnt/mongodbext-relations",
   "version": "1.0.9",
   "description": "mongodbext plugin that bring relations between collections",
   "main": "lib/index.js",
