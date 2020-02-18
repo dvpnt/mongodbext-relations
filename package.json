@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/2do2go/mongodbext-relations.git"
+    "url": "git://github.com/dvpnt/mongodbext-relations.git"
   },
   "keywords": [
     "mongo",
@@ -22,9 +22,9 @@
   "author": "Artem Zhukov",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/2do2go/mongodbext-relations/issues"
+    "url": "https://github.com/dvpnt/mongodbext-relations/issues"
   },
-  "homepage": "https://github.com/2do2go/mongodbext-relations#readme",
+  "homepage": "https://github.com/dvpnt/mongodbext-relations#readme",
   "peerDependencies": {
     "mongodbext": ">=2.1.2"
   },
